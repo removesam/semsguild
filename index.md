@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 [test](https://removesam.github.io/semsguild/something)
-[test2](/something)
+[test2](/semsguild/something)
 
 You can use the [editor on GitHub](https://github.com/removesam/semsguild/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
