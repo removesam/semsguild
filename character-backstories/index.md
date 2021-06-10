@@ -1,3 +1,5 @@
-[Semhal](/semsguild/character-backstories/semhal)  
-[Vicmeral](/semsguild/character-backstories/vicmeral)   
-[Iredell](/semsguild/character-backstories/iredell)
+# Character Backsories
+## Guild Members
+[Semhal (Master)](/semsguild/character-backstories/semhal)  
+[Vicmeral(Manager)](/semsguild/character-backstories/vicmeral)   
+[Iredell(Healer)](/semsguild/character-backstories/iredell)
