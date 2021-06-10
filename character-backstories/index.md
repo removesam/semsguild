@@ -1,3 +1,3 @@
-im confused
 [Semhal](/semsguild/character-backstories/semhal)  
-[Vicmeral](
+[Vicmeral](/semsguild/character-backstories/semhal) 
+[hexblood healer]
