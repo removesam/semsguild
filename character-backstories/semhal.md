@@ -1,4 +1,6 @@
 # character backstory
+[back to character backstories](/semsguild/character-backstories)  
+[back to the hub](/semsguild)
 ## Semhal Lore
 
 Sem was born to an impoverished family living in the slums of a wealthy merchant's city called Feros. She spent her childhood begging, foraging and scrounging for food. With only a father to look after her, Sem spent her time in the streets while he was away at work. She and the other slum children would wander into the markets to beg the wealthy for handouts when one day, one of the children fell ill. Sem, one of the oldest in the group, took it upon herself to care for the child, an orphan boy of only 6 years. When it was clear that the child needed medicine, Sem resorted to stealing from street merchants to trade for the remedy that the boy needed. Sem felt proud that she could take care of the village children and soon found herself stealing on a regular basis.
