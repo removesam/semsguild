@@ -2,7 +2,7 @@
 # World Lore
 [back to the hub](/semsguild)  
 ## Northern Province
-[Karrim](/semsguild/lore/world-lore/karrim)  
+[Karrim](/semsguild/lore/karrim)  
 Bladebreeze
 ## Eastern Province
 Easthaven
