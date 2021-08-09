@@ -1,14 +1,14 @@
 # World Lore
 [back to the hub](/semsguild)
 ## Northern Province
-Karrim
+Karrim  
 Bladebreeze
 ## Eastern Province
 Easthaven
 ## Southern Province
 Cedar Port
 ## Western Province
-Feros
+Feros  
 Azmar
 
 Merton
